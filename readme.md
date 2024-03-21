@@ -1,12 +1,14 @@
 ## Upon installing MacOS 14, copy and paste the code below in VM configuration file
 
 ### Intel
+```
 smbios.reflectHost = "TRUE"
 hw.model = "MacBookPro14,3"
 board-id = "Mac-551B86E5744E2388"
 smc.version = "0"
-
+```
 ### AMD
+```
 smc.version = "0"
 cpuid.0.eax = "0000:0000:0000:0000:0000:0000:0000:1011"
 cpuid.0.ebx = "0111:0101:0110:1110:0110:0101:0100:0111"
@@ -19,3 +21,4 @@ cpuid.1.edx = "0000:0111:1000:1011:1111:1011:1111:1111"
 smbios.reflectHost = "TRUE"
 hw.model = "MacBookPro14,3"
 board-id = "Mac-551B86E5744E2388"
+```
