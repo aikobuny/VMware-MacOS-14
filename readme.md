@@ -22,3 +22,5 @@ smbios.reflectHost = "TRUE"
 hw.model = "MacBookPro14,3"
 board-id = "Mac-551B86E5744E2388"
 ```
+
+You can download MacOS 14 Sonoma [here](https://drive.google.com/file/d/1AvdkNF0g4AQi22BfFrhBWBT1Ts-mSbO0/view)
