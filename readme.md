@@ -1,6 +1,7 @@
 ## Upon installing MacOS 14, copy and paste the code below in VM configuration file
 
-### [VMware Unlocker](https://github.com/paolo-projects/unlocker)
+- [VMware Unlocker](https://github.com/paolo-projects/unlocker)
+- [MacOS 14](https://drive.google.com/file/d/1AvdkNF0g4AQi22BfFrhBWBT1Ts-mSbO0/view)
 
 ### Intel
 ```
@@ -24,5 +25,3 @@ smbios.reflectHost = "TRUE"
 hw.model = "MacBookPro14,3"
 board-id = "Mac-551B86E5744E2388"
 ```
-
-You can download MacOS 14 Sonoma [here](https://drive.google.com/file/d/1AvdkNF0g4AQi22BfFrhBWBT1Ts-mSbO0/view)
