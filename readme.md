@@ -1,5 +1,7 @@
 ## Upon installing MacOS 14, copy and paste the code below in VM configuration file
 
+## [VMware Unlocker](https://github.com/paolo-projects/unlocker)
+
 ### Intel
 ```
 smbios.reflectHost = "TRUE"
